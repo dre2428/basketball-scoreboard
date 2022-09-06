@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    background: #17255A;
+    color: #F5E2C8;
+    font-family: monospace;
+    font-size: 30px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#score-home {
+    font-size: 90px;
+    margin: 0 0 15px 0;
+    background: #D88373;
+    color: #951111;
+    padding: 20px 25px 10px 20px;
+    border-radius: 5%;
+    text-shadow: 2px -2px #F5E2C8;
+}
+
+#score-guest {
+    font-size: 90px;
+    margin: 0 0 15px 0;
+    background:#D88373;
+    color: #951111;
+    padding: 20px 25px 10px 20px;
+    border-radius: 5%;
+    text-shadow: 2px -2px #F5E2C8;
+}
+
+#home-score-btn-1 {
+    background: #D88373;
+    border-radius: 20%;
+    border: 2px solid #48233C;
+    font-size: 20px;
+    padding: 10px;
+    font-family:monospace;
+    text-shadow: 2px 1px #F5E2C8;
+}
+
+#home-score-btn-2 {
+    background: #D88373;
+    border-radius: 20%;
+    border: 2px solid #48233C;
+    font-size: 20px;
+    padding: 10px;
+    font-family:monospace;
+    text-shadow: 2px 1px #F5E2C8;
+}
+
+#home-score-btn-3 {
+    background: #D88373;
+    border-radius: 20%;
+    border: 2px solid #48233C;
+    font-size: 20px;
+    padding: 10px;
+    font-family:monospace;
+    text-shadow: 2px 1px #F5E2C8;
+}
+
+#guest-score-btn-1 {
+    background: #D88373;
+    border-radius: 20%;
+    border: 2px solid #48233C;
+    font-size: 20px;
+    padding: 10px;
+    font-family:monospace;
+    text-shadow: 2px 1px #F5E2C8;
+}
+
+#guest-score-btn-2 {
+    background: #D88373;
+    border-radius: 20%;
+    border: 2px solid #48233C;
+    font-size: 20px;
+    padding: 10px;
+    font-family:monospace;
+        text-shadow: 2px 1px #F5E2C8;
+}
+
+#guest-score-btn-3 {
+    background: #D88373;
+    border-radius: 20%;
+    border: 2px solid #48233C;
+    font-size: 20px;
+    padding: 10px;
+    font-family:monospace;
+        text-shadow: 2px 1px #F5E2C8;
+}
+
+#new-game-btn {
+    background: #D0A98F;
+    margin-top: 50px;
+    border: 3px solid #F5E2C8;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: monospace;
+    padding: 10px 20px;
+}
